@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <img align='right' width='500' height='320' src="https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/coder.gif">
 
-- 🔭 I’m currently working at CrossRealms International as a Software Developer and Splunk Engineer.
+- 🔭 I’m currently working at <a target='_blank' href='https://crossrealms.com/'>CrossRealms International</a> as a Software Developer and Splunk Engineer.
 
-- 💬 Talk to me about Splunk, Cyber Security, Python, JavaScript, and Open Source 
+- 💬 Talk to me about Splunk, Cyber Security, Python, JavaScript, and Open Source.
 
 - 👯 I would love to collaborate on Open Source Cyber Security Python or JavaScript project.
+
+- I love Science (includes everything Physics, Chemistry, Biology), Technology and Maths. Connect with me with a new astrophysics concept, a new math puzzle, or Neurons and Brain and I would love to discuss that with you.
 
 
 
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
 
 <p style='margin-top:20px;'></p>
 
-<img alt='Javascript' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/javascript.svg'>
+<a target='_blank' href='https://www.javascript.com/'><img alt='Javascript' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/javascript.svg'></a>
 &nbsp;&nbsp;&nbsp;
 <img alt='HTML' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/html.svg'>
 &nbsp;&nbsp;&nbsp;
@@ -61,14 +63,14 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;
 <a target='_blank' href='https://jquery.com/'><img alt='JQuery' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/jquery.png'></a>
 &nbsp;&nbsp;&nbsp;
-<a target='_blank' href='https://getbootstrap.com/'><img alt='JQuery' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/bootstrap.svg'></a>
+<a target='_blank' href='https://getbootstrap.com/'><img alt='Bootstrap' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/bootstrap.svg'></a>
 &nbsp;&nbsp;&nbsp;
 <a target='_blank' href='https://www.chartjs.org/'><img alt='Chart.js' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/chartjs.svg'></a>
 
 
 <p style='margin-top:20px;'></p>
 
-<img alt='Regular Expression' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/regex.png'>
+<a target='_blank' href='https://regex101.com/'><img alt='Regular Expression' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/regex.png'></a>
 &nbsp;&nbsp;&nbsp;
 <img alt='Linux' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/linux.svg'>
 &nbsp;&nbsp;&nbsp;
@@ -79,7 +81,7 @@ Here are some ideas to get you started:
 
 <p style='margin-top:20px;'></p>
 
-<img alt='Postgres' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/postgresql.svg'>
+<a target='blank' href='https://regex101.com/'><img alt='Postgres' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/postgresql.svg'></a>
 &nbsp;&nbsp;&nbsp;
 <img alt='SQLite' width='32px' src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/sqlite.svg'>
 &nbsp;&nbsp;&nbsp;
@@ -112,7 +114,7 @@ Here are some ideas to get you started:
 - <a target='_blank' href='https://github.com/VatsalJagani/Splunk-BubbleChart-Splunk-App'>Bubble Chart on Time</a> - Custom visualization for Splunk to display bubble chart with time on X-axis.
 
 
-<h3> College / Fun Projects <img src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/game.png' style='width:32px;'></h3>
+<h3> College / Fun Projects <img src='https://raw.githubusercontent.com/VatsalJagani/VatsalJagani/develop/resources/game.png' width='32px'></h3>
 <span>Are you learning programming? Are you college student?</span>
 
 - <a target='_blank' href='https://github.com/VatsalJagani/Game-Battleship'>Battleship Game</a> - Battleship game built with Python. Game includes server and client both. The communication happens with socket only (Cannot use high-level library). Used Tkinter for GUI.
